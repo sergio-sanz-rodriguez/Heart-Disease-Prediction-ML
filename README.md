@@ -3,9 +3,9 @@
 ---
 
 ## Objective
-The objective of this work is to investigate the potential of ensemble architectures for improving the performance in binary classification problems such as heart attack dectection. In this notebook, we will analyze a heart-attack database in order to predict, by means of machine-learning models, whether a person has a heart disease or not.
+The objective of this work is to investigate the potential of ensemble architectures to improve prediction in binary classification problems. In this notebook, we will utilize a heart disease database in order to detect, using machine-learning models, the presence of heart disease in patients.
    
-The evaluated models include: **Logistic Regression**, **Support Vector Machine (SVM)**, **Random Forest**, **Soft-Voting**, and **Stacking**. The last three models correspond to ensemble architectures.
+The evaluated models include: **Logistic Regression**, **Support Vector Machine (SVM)**, **Random Forest**, **Soft-Voting**, and **Stacking**. The last three correspond to ensemble architectures.
 
 ## Data Overview
 

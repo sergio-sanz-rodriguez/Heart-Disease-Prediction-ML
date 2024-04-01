@@ -1,4 +1,4 @@
-# Machine-Learning Project - Heart-Desease-ML
+# Machine-Learning Project - Heart-Disease-ML
 
 ---
 

@@ -1,4 +1,4 @@
-# Machine-Learning Project - Heart-Disease-ML
+# Machine-Learning Project - Ensemble Learning Architectures for Heart Disease Prediction
 
 ---
 
